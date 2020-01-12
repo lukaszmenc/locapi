@@ -4,6 +4,8 @@ LocAPI is a JSON format backend REST API which allows to get geolocation informa
 ## Installation
 Create the ```.env``` file in the root of the project and insert your key/value pairs in the format shown in ```.env.example``` file.
 
+You can also use default values from ```.env.example``` file by changing its name to ```.env```.
+
 ## Usage
 
 
